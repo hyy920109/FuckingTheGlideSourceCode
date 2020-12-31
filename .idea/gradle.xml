@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="disableWrapperSourceDistributionNotification" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:/Gradle/gradle-6.5.1" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/annotation" />
+            <option value="$PROJECT_DIR$/annotation/compiler" />
+            <option value="$PROJECT_DIR$/annotation/compiler/test" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/glide" />
+            <option value="$PROJECT_DIR$/instrumentation" />
+            <option value="$PROJECT_DIR$/integration" />
+            <option value="$PROJECT_DIR$/integration/concurrent" />
+            <option value="$PROJECT_DIR$/integration/cronet" />
+            <option value="$PROJECT_DIR$/integration/gifencoder" />
+            <option value="$PROJECT_DIR$/integration/okhttp" />
+            <option value="$PROJECT_DIR$/integration/okhttp3" />
+            <option value="$PROJECT_DIR$/integration/recyclerview" />
+            <option value="$PROJECT_DIR$/integration/volley" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/library/findbugs" />
+            <option value="$PROJECT_DIR$/library/pmd" />
+            <option value="$PROJECT_DIR$/library/test" />
+            <option value="$PROJECT_DIR$/mocks" />
+            <option value="$PROJECT_DIR$/samples" />
+            <option value="$PROJECT_DIR$/samples/contacturi" />
+            <option value="$PROJECT_DIR$/samples/flickr" />
+            <option value="$PROJECT_DIR$/samples/gallery" />
+            <option value="$PROJECT_DIR$/samples/giphy" />
+            <option value="$PROJECT_DIR$/samples/imgur" />
+            <option value="$PROJECT_DIR$/samples/svg" />
+            <option value="$PROJECT_DIR$/testutil" />
+            <option value="$PROJECT_DIR$/third_party" />
+            <option value="$PROJECT_DIR$/third_party/disklrucache" />
+            <option value="$PROJECT_DIR$/third_party/gif_decoder" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

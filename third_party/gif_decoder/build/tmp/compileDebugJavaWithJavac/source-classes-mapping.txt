@@ -1,0 +1,15 @@
+com/bumptech/glide/gifdecoder/StandardGifDecoder.java
+ com.bumptech.glide.gifdecoder.StandardGifDecoder
+com/bumptech/glide/gifdecoder/BuildConfig.java
+ com.bumptech.glide.gifdecoder.BuildConfig
+com/bumptech/glide/gifdecoder/GifFrame.java
+ com.bumptech.glide.gifdecoder.GifFrame
+ com.bumptech.glide.gifdecoder.GifFrame$GifDisposalMethod
+com/bumptech/glide/gifdecoder/GifHeader.java
+ com.bumptech.glide.gifdecoder.GifHeader
+com/bumptech/glide/gifdecoder/GifHeaderParser.java
+ com.bumptech.glide.gifdecoder.GifHeaderParser
+com/bumptech/glide/gifdecoder/GifDecoder.java
+ com.bumptech.glide.gifdecoder.GifDecoder
+ com.bumptech.glide.gifdecoder.GifDecoder$BitmapProvider
+ com.bumptech.glide.gifdecoder.GifDecoder$GifDecodeStatus
